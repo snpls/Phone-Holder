@@ -6,3 +6,5 @@ This project is a reverse-engineered model of a real phone stand, accurately rep
 - Reverse Engineering: Accurate dimensional replication using caliper measurements
 - Multi-Part Assembly: Modeled separate components and assembled with proper mates
 - Exploded View: Fully functional exploded animation to showcase part breakdown
+
+![Image Alt](https://github.com/snpls/Phone-Holder/blob/main/Exploded%20view.png?raw=true)
